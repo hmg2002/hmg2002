@@ -1,4 +1,4 @@
-## Hey!👋 I'm Harsh Gala
+<h1 align="center"> Hey!👋 I'm Harsh Gala</h1>
 
 <h3 align="center">Welcome to my GitHub! I'm a computer Science student with strong foundation in OOP, Algorithms, Data Structures, Artificial Intelligence, Databases, Advanced Design and Software Engineering. Here you'll find a showcase of my projects, collaborations, and the skills I've honed through projects and academic experiences.</h3>
 
