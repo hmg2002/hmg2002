@@ -1,6 +1,6 @@
 ## Hey!👋 I'm Harsh Gala
 
-# Welcome to my GitHub! I'm a computer Science student with strong foundation in OOP, Algorithms, Data Structures, Artificial Intelligence, Databases, Advanced Design and Software Engineering. Here you'll find a showcase of my projects, collaborations, and the skills I've honed through projects and academic experiences.
+<h3 align="center">Welcome to my GitHub! I'm a computer Science student with strong foundation in OOP, Algorithms, Data Structures, Artificial Intelligence, Databases, Advanced Design and Software Engineering. Here you'll find a showcase of my projects, collaborations, and the skills I've honed through projects and academic experiences.</h3>
 
 🎯Projects
 - Movies Explorer - Full-Stack React Application: Developed a full-stack movie discovery platform with React.js to simplify front end development using 100% JSX and Vite that brings a complete TMDb-powered catalog at the users fingertips 200ms.
